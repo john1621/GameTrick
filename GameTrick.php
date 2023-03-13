@@ -1,4 +1,4 @@
 <?php
-echo "Hello From GameTrick Youtube Channel";
 echo "Hello";
+echo "From GameTrick Youtube Channel";
 ?>
